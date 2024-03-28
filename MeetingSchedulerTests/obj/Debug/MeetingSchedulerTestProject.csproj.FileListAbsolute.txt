@@ -1,0 +1,16 @@
+C:\Users\basannap\source\repos\MeetingSchedulerConsoleApp\MeetingSchedulerTests\obj\Debug\MeetingSchedulerTestProject.csproj.AssemblyReference.cache
+C:\Users\basannap\source\repos\MeetingSchedulerConsoleApp\MeetingSchedulerTests\obj\Debug\MeetingSchedulerTestProject.csproj.CoreCompileInputs.cache
+C:\Users\basannap\source\repos\MeetingSchedulerConsoleApp\MeetingSchedulerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\basannap\source\repos\MeetingSchedulerConsoleApp\MeetingSchedulerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\basannap\source\repos\MeetingSchedulerConsoleApp\MeetingSchedulerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\basannap\source\repos\MeetingSchedulerConsoleApp\MeetingSchedulerTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\basannap\source\repos\MeetingSchedulerConsoleApp\MeetingSchedulerTests\bin\Debug\MeetingSchedulerTests.dll
+C:\Users\basannap\source\repos\MeetingSchedulerConsoleApp\MeetingSchedulerTests\bin\Debug\MeetingSchedulerTests.pdb
+C:\Users\basannap\source\repos\MeetingSchedulerConsoleApp\MeetingSchedulerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\basannap\source\repos\MeetingSchedulerConsoleApp\MeetingSchedulerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\basannap\source\repos\MeetingSchedulerConsoleApp\MeetingSchedulerTests\bin\Debug\MeetingSchedulerConsoleApp.exe
+C:\Users\basannap\source\repos\MeetingSchedulerConsoleApp\MeetingSchedulerTests\bin\Debug\MeetingSchedulerConsoleApp.pdb
+C:\Users\basannap\source\repos\MeetingSchedulerConsoleApp\MeetingSchedulerTests\bin\Debug\MeetingSchedulerConsoleApp.exe.config
+C:\Users\basannap\source\repos\MeetingSchedulerConsoleApp\MeetingSchedulerTests\obj\Debug\MeetingS.364B0585.Up2Date
+C:\Users\basannap\source\repos\MeetingSchedulerConsoleApp\MeetingSchedulerTests\obj\Debug\MeetingSchedulerTests.dll
+C:\Users\basannap\source\repos\MeetingSchedulerConsoleApp\MeetingSchedulerTests\obj\Debug\MeetingSchedulerTests.pdb

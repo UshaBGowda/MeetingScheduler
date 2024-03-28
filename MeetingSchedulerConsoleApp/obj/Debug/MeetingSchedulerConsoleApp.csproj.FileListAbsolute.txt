@@ -1,0 +1,7 @@
+C:\Users\basannap\source\repos\MeetingSchedulerConsoleApp\MeetingSchedulerConsoleApp\bin\Debug\MeetingSchedulerConsoleApp.exe.config
+C:\Users\basannap\source\repos\MeetingSchedulerConsoleApp\MeetingSchedulerConsoleApp\bin\Debug\MeetingSchedulerConsoleApp.exe
+C:\Users\basannap\source\repos\MeetingSchedulerConsoleApp\MeetingSchedulerConsoleApp\bin\Debug\MeetingSchedulerConsoleApp.pdb
+C:\Users\basannap\source\repos\MeetingSchedulerConsoleApp\MeetingSchedulerConsoleApp\obj\Debug\MeetingSchedulerConsoleApp.csproj.AssemblyReference.cache
+C:\Users\basannap\source\repos\MeetingSchedulerConsoleApp\MeetingSchedulerConsoleApp\obj\Debug\MeetingSchedulerConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\basannap\source\repos\MeetingSchedulerConsoleApp\MeetingSchedulerConsoleApp\obj\Debug\MeetingSchedulerConsoleApp.exe
+C:\Users\basannap\source\repos\MeetingSchedulerConsoleApp\MeetingSchedulerConsoleApp\obj\Debug\MeetingSchedulerConsoleApp.pdb

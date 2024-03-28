@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xeU6NcJvz936RBEF/nD1TFbA8jiEIllMUj/MrU/E0xBIGcNMorZpewxpg7WjZTnOaSFgPCpEOTXHU6PgugJybw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\basannap\\source\\repos\\MeetingSchedulerConsoleApp\\MeetingSchedulerTests\\MeetingSchedulerTestProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\basannap\\.nuget\\packages\\mstest.testadapter\\2.2.10\\mstest.testadapter.2.2.10.nupkg.sha512",
+    "C:\\Users\\basannap\\.nuget\\packages\\mstest.testframework\\2.2.10\\mstest.testframework.2.2.10.nupkg.sha512"
+  ],
+  "logs": []
+}

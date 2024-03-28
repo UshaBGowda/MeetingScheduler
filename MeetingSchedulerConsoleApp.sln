@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetingSchedulerConsoleApp", "MeetingSchedulerConsoleApp\MeetingSchedulerConsoleApp.csproj", "{68BE798D-C063-4C37-B564-501F2BF9FC52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetingSchedulerTestProject", "MeetingSchedulerTests\MeetingSchedulerTestProject.csproj", "{EF812E6D-655F-468F-9E65-3DD2D4D70997}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68BE798D-C063-4C37-B564-501F2BF9FC52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68BE798D-C063-4C37-B564-501F2BF9FC52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68BE798D-C063-4C37-B564-501F2BF9FC52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68BE798D-C063-4C37-B564-501F2BF9FC52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF812E6D-655F-468F-9E65-3DD2D4D70997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF812E6D-655F-468F-9E65-3DD2D4D70997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF812E6D-655F-468F-9E65-3DD2D4D70997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF812E6D-655F-468F-9E65-3DD2D4D70997}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D428364A-01B0-4E76-832A-8FC16CB81A49}
+	EndGlobalSection
+EndGlobal
